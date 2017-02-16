@@ -1,5 +1,5 @@
 html和css知识笔记
 ======
-```java script
+```java script  
 var a=x;
 ```
